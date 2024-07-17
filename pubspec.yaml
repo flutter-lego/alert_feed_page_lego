@@ -1,7 +1,7 @@
 name: alert_feed_page_lego
 description: "Alert Feed Page Lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/alert_feed_page_lego
 
 version: 1.0.0
 
